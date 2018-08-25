@@ -8,7 +8,7 @@ AB = gg.choice({
 	"😁Wallhack And Colours😁",
 	"😉Lobby Menu😉",
 	"😚Landing Menu😚",
-	"😘Other Features😘",
+	"Other Features",
 	"😭EXIT😭",
 	"📞 MY CONTACT📞"},
 nil,"Menu Script [Evil 1.0 Free]\n Script by Evil And FrameMods✍️")
