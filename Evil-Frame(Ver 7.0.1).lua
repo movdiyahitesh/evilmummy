@@ -4,13 +4,13 @@ gg.alert(os.date("     🎉CHEAT PUBG MOBILE 7.5 🎉\n Version: 7.5 [Evil 1.0 F
 HOME = 1
 function HOME()
 AB = gg.choice({
-	"🔔BYPASS🔔 (🎶TENCENT LOGO🎶)",
-	"😁Wallhack And Colours😁",
-	"😉Lobby Menu😉",
-	"😚Landing Menu😚",
+	"BYPASS(TENCENT LOGO)",
+	"Wallhack And Colours",
+	"Lobby Menu",
+	"Landing Menu",
 	"Other Features",
-	"😭EXIT😭",
-	"📞 MY CONTACT📞"},
+	"EXIT",
+	"MY CONTACT"},
 nil,"Menu Script [Evil 1.0 Free]\n Script by Evil And FrameMods✍️")
 if AB == 1 then BP() end
 if AB == 2 then WHCL() end
